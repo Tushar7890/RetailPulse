@@ -1,0 +1,12 @@
+[
+    {
+        "store_id": "S00339218",
+        "store_name": "Store 1",
+        "area_code": "12345"
+    },
+    {
+        "store_id": "S01408764",
+        "store_name": "Store 2",
+        "area_code": "54321"
+    }
+]
